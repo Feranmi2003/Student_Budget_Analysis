@@ -1,0 +1,51 @@
+Age,Gender,Year_in_school,Major,Their_Total,Year_Avg_Spending,Overspend_Amount
+23,Male,Senior,Engineering,8266,6273.13,1992.87
+21,Non-binary,Junior,"Computer Science",8242,6377.25,1864.75
+24,Female,Freshman,Psychology,8105,6319.41,1785.59
+21,Non-binary,Sophomore,Psychology,8056,6293.14,1762.86
+19,Male,Senior,"Computer Science",8023,6273.13,1749.87
+19,Male,Freshman,Engineering,8063,6319.41,1743.59
+21,Female,Senior,Engineering,8014,6273.13,1740.87
+19,Male,Freshman,Biology,8057,6319.41,1737.59
+21,Non-binary,Junior,Biology,8112,6377.25,1734.75
+19,Non-binary,Senior,"Computer Science",7985,6273.13,1711.87
+25,Male,Senior,Biology,7960,6273.13,1686.87
+24,Male,Sophomore,"Computer Science",7970,6293.14,1676.86
+22,Non-binary,Senior,"Computer Science",7947,6273.13,1673.87
+21,Male,Senior,Psychology,7929,6273.13,1655.87
+24,Non-binary,Sophomore,"Computer Science",7946,6293.14,1652.86
+24,Male,Sophomore,"Computer Science",7940,6293.14,1646.86
+23,Female,Senior,Economics,7919,6273.13,1645.87
+25,Male,Freshman,"Computer Science",7959,6319.41,1639.59
+21,Female,Junior,Biology,8012,6377.25,1634.75
+19,Female,Junior,Engineering,8000,6377.25,1622.75
+22,Female,Freshman,Biology,7933,6319.41,1613.59
+18,Non-binary,Senior,Engineering,7881,6273.13,1607.87
+24,Female,Freshman,Economics,7926,6319.41,1606.59
+19,Female,Senior,Biology,7879,6273.13,1605.87
+19,Non-binary,Junior,"Computer Science",7971,6377.25,1593.75
+25,Male,Junior,Psychology,7948,6377.25,1570.75
+18,Non-binary,Senior,Economics,7823,6273.13,1549.87
+24,Non-binary,Junior,"Computer Science",7924,6377.25,1546.75
+18,Male,Sophomore,Psychology,7832,6293.14,1538.86
+23,Non-binary,Senior,Biology,7805,6273.13,1531.87
+24,Non-binary,Senior,Economics,7804,6273.13,1530.87
+24,Non-binary,Freshman,"Computer Science",7849,6319.41,1529.59
+19,Male,Senior,Psychology,7796,6273.13,1522.87
+24,Female,Freshman,Engineering,7828,6319.41,1508.59
+25,Female,Freshman,Biology,7809,6319.41,1489.59
+21,Male,Junior,Biology,7866,6377.25,1488.75
+23,Male,Junior,"Computer Science",7857,6377.25,1479.75
+21,Female,Junior,Psychology,7852,6377.25,1474.75
+25,Female,Sophomore,Economics,7767,6293.14,1473.86
+19,Male,Senior,Biology,7743,6273.13,1469.87
+20,Female,Junior,Psychology,7846,6377.25,1468.75
+25,Male,Senior,Biology,7739,6273.13,1465.87
+25,Male,Freshman,Psychology,7773,6319.41,1453.59
+25,Non-binary,Senior,"Computer Science",7717,6273.13,1443.87
+25,Male,Freshman,Biology,7760,6319.41,1440.59
+25,Non-binary,Senior,"Computer Science",7708,6273.13,1434.87
+24,Non-binary,Junior,Engineering,7811,6377.25,1433.75
+18,Non-binary,Junior,Psychology,7810,6377.25,1432.75
+22,Male,Sophomore,Economics,7724,6293.14,1430.86
+18,Non-binary,Senior,Biology,7703,6273.13,1429.87

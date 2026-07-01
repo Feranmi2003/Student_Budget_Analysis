@@ -1,0 +1,25 @@
+Age,Preferred_payment_method,Student_Count,Pct_Within_Age
+18,"Credit/Debit Card",45,36.3
+18,"Mobile Payment App",41,33.1
+18,Cash,38,30.6
+19,"Mobile Payment App",43,39.8
+19,Cash,36,33.3
+19,"Credit/Debit Card",29,26.9
+20,"Mobile Payment App",49,44.1
+20,"Credit/Debit Card",34,30.6
+20,Cash,28,25.2
+21,"Credit/Debit Card",41,34.7
+21,"Mobile Payment App",39,33.1
+21,Cash,38,32.2
+22,"Credit/Debit Card",53,40.8
+22,"Mobile Payment App",40,30.8
+22,Cash,37,28.5
+23,Cash,44,34.4
+23,"Mobile Payment App",43,33.6
+23,"Credit/Debit Card",41,32.0
+24,Cash,47,34.6
+24,"Credit/Debit Card",45,33.1
+24,"Mobile Payment App",44,32.4
+25,"Credit/Debit Card",52,35.9
+25,"Mobile Payment App",51,35.2
+25,Cash,42,29.0
