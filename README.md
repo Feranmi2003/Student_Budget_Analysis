@@ -1,6 +1,6 @@
 # Student Budget \& Income Analysis
 
-### SQL + Excel + Power BI — End-to-End Data Analysis Project
+### SQL + Excel + Power BI : End-to-End Data Analysis Project
 
 
 
